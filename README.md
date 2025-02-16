@@ -28,8 +28,6 @@ bash
 
 cd privacy-vault
 
-cd privacy-vault
-
 2. Instalar dependencias:
 
 bash
